@@ -1,0 +1,1 @@
+{"uuid":"a06e7199-2a90-4b17-aba6-583a6b0e0825","name":"RegisterTest.tearDown","children":["54bb064c-b626-4b80-aa5c-ce62d5e0085c"],"description":"","befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1763145106699,"stop":1763145106700}],"start":1763145106698,"stop":1763145106700}

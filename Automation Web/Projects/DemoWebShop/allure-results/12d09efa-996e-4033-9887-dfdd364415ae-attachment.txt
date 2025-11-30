@@ -1,0 +1,17 @@
+[DEBUG] - [31-10-2025 16:05:48] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\Mohamed\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml"
+[INFO] - [31-10-2025 16:05:50] [main] [CustomListeners.TestNGListeners] - Test Execution started
+[INFO] - [31-10-2025 16:05:50] [main] [Utils.FileUtillls] - Cleaned successfully
+[INFO] - [31-10-2025 16:05:50] [main] [Utils.FileUtillls] - Cleaned successfully
+[INFO] - [31-10-2025 16:05:50] [main] [Utils.FileUtillls] - Cleaned successfully
+[INFO] - [31-10-2025 16:05:50] [main] [Utils.FileUtillls] - File deleted: D:\Courses\Software Testing\Automation Web\Projects\FullProject\test-output\Logs\logs.log
+[INFO] - [31-10-2025 16:05:50] [main] [CustomListeners.TestNGListeners] - Directories cleaned
+[INFO] - [31-10-2025 16:05:50] [main] [Utils.FileUtillls] - Directory created: Output_data/ScreenShots/
+[INFO] - [31-10-2025 16:05:50] [main] [Utils.FileUtillls] - Directory created: src/test/resources/downloads/
+[INFO] - [31-10-2025 16:05:50] [main] [CustomListeners.TestNGListeners] - Directories created
+[INFO] - [31-10-2025 16:05:50] [main] [CustomListeners.TestNGListeners] - Properties loaded
+[INFO] - [31-10-2025 16:05:51] [main] [Utils.Reports.AllureEnvironmentManager] - Allure environment variables set.
+[INFO] - [31-10-2025 16:05:51] [main] [CustomListeners.TestNGListeners] - Allure environment set
+[INFO] - [31-10-2025 16:05:51] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Mohamed\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[ERROR] - [31-10-2025 16:05:57] [main] [Media.ScreenShot] - Error taking full page screenshot: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "driver" is null

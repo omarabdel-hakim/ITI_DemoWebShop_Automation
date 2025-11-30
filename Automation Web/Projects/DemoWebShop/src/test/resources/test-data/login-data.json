@@ -1,0 +1,9 @@
+{
+  "email": "omarabdelhakim777@gmail.com",
+  "password": "123456789",
+  "invalidEmail": "jfhghjkf@gmail.com",
+  "invalidPassword": "77777777",
+  "forgotPasswordURL": "https://demowebshop.tricentis.com/passwordrecovery",
+  "invalidOrEmptyEmailMessage": "No customer account found",
+  "invalidOrEmptyPasswordMessage": "The credentials provided are incorrect"
+}

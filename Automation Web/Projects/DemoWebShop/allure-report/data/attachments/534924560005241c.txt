@@ -1,0 +1,594 @@
+[DEBUG] - [30-10-2025 14:51:54] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\Mohamed\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml"
+[INFO] - [30-10-2025 14:51:56] [main] [CustomListeners.TestNGListeners] - Test Execution started
+[INFO] - [30-10-2025 14:51:57] [main] [Utils.FileUtillls] - Cleaned successfully
+[INFO] - [30-10-2025 14:51:57] [main] [Utils.FileUtillls] - Cleaned successfully
+[INFO] - [30-10-2025 14:51:57] [main] [Utils.FileUtillls] - Cleaned successfully
+[INFO] - [30-10-2025 14:51:57] [main] [Utils.FileUtillls] - File deleted: D:\Courses\Software Testing\Automation Web\Projects\FullProject\test-output\Logs\logs.log
+[INFO] - [30-10-2025 14:51:57] [main] [CustomListeners.TestNGListeners] - Directories cleaned
+[INFO] - [30-10-2025 14:51:57] [main] [Utils.FileUtillls] - Directory created: Output_data/ScreenShots/
+[INFO] - [30-10-2025 14:51:57] [main] [Utils.FileUtillls] - Directory created: src/test/resources/downloads/
+[INFO] - [30-10-2025 14:51:57] [main] [CustomListeners.TestNGListeners] - Directories created
+[INFO] - [30-10-2025 14:51:57] [main] [CustomListeners.TestNGListeners] - Properties loaded
+[INFO] - [30-10-2025 14:51:57] [main] [Utils.Reports.AllureEnvironmentManager] - Allure environment variables set.
+[INFO] - [30-10-2025 14:51:57] [main] [CustomListeners.TestNGListeners] - Allure environment set
+[INFO] - [30-10-2025 14:51:57] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Mohamed\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[INFO] - [30-10-2025 14:51:57] [main] [Drivers.GUIDriver] - Initializing GUIDriver with browser: Edge
+[INFO] - [30-10-2025 14:51:57] [main] [Drivers.GUIDriver] - Starting driver for browser: EDGE
+[ERROR] - [30-10-2025 14:52:07] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:07] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:07] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:07] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:07] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:08] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:08] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:08] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:08] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:08] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:08] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:08] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:08] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:09] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:09] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:09] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:09] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:09] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:09] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:09] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:10] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:10] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:10] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:10] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:10] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:10] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:10] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:11] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:11] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:11] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:11] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:11] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:11] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:12] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:12] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:12] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:12] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:12] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:12] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:12] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:13] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:13] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:13] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:13] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:13] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:13] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:13] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:13] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:14] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:14] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:14] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:14] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:14] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:14] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:14] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:15] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:15] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:15] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:15] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:15] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:15] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:16] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:23] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=141.0.3537.99)
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, findElement {using=css selector, value=[title="Your Store"]}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e
+[ERROR] - [30-10-2025 14:52:23] [main] [Media.ScreenShot] - Error taking full page screenshot: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: MicrosoftEdge=141.0.3537.99)
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d9a71fd46c78aa95b017efc81f21fa2e, screenshot {}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:56910}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56910/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9a71fd46c78aa95b017efc81f21fa2e

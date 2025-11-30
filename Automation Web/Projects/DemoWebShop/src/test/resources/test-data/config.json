@@ -1,0 +1,6 @@
+{
+  "baseURL": "https://demowebshop.tricentis.com/",
+  "browserType": "edge",
+  "DEFAULT_WAIT": "10",
+  "executionType": "Local"
+}

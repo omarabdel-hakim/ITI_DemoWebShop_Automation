@@ -1,0 +1,11 @@
+{
+  "gender": "male",
+  "firstName": "Omar",
+  "lastName": "Abdelhakim",
+  "email": "omarabdelhakim",
+  "emailEnd": "@gmail.com",
+  "password": "123456789",
+  "confirmPassword": "123456789",
+  "message": "Your registration completed",
+  "existMessage": "The specified email already exists"
+}

@@ -1,0 +1,5 @@
+[DEBUG] - [30-11-2025 14:43:31] [main] [org.testng.TestNG] - suiteXmlPath: "D:\Courses\Software Testing\Automation Web\Projects\DemoWebShop\testng.xml"
+[INFO] - [30-11-2025 14:43:37] [main] [CustomListeners.TestNGListeners] - Test Execution started
+[INFO] - [30-11-2025 14:43:38] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  D:\Courses\Software Testing\Automation Web\Projects\DemoWebShop\testng.xml
+

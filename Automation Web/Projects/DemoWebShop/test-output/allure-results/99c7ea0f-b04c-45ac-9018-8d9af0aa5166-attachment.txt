@@ -1,0 +1,19 @@
+[DEBUG] - [30-11-2025 14:43:31] [main] [org.testng.TestNG] - suiteXmlPath: "D:\Courses\Software Testing\Automation Web\Projects\DemoWebShop\testng.xml"
+[INFO] - [30-11-2025 14:43:37] [main] [CustomListeners.TestNGListeners] - Test Execution started
+[INFO] - [30-11-2025 14:43:38] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  D:\Courses\Software Testing\Automation Web\Projects\DemoWebShop\testng.xml
+
+[INFO] - [30-11-2025 14:44:14] [main] [CustomListeners.TestNGListeners] - Test Case ValidRegistrationTC passed
+[INFO] - [30-11-2025 14:44:58] [main] [CustomListeners.TestNGListeners] - Test Case verifyRegisterWithEmptyLastNameAndEmailShowsErrorTC passed
+[INFO] - [30-11-2025 14:45:33] [main] [CustomListeners.TestNGListeners] - Test Case verifyRegisterWithExistEmailShowsErrorTC passed
+[INFO] - [30-11-2025 14:45:55] [main] [CustomListeners.TestNGListeners] - Test Case verifyValidLoginDataTC passed
+[INFO] - [30-11-2025 14:46:19] [main] [CustomListeners.TestNGListeners] - Test Case verifyLoginWithEmptyEmailAndValidDataShowsErrorTC passed
+[INFO] - [30-11-2025 14:46:38] [main] [CustomListeners.TestNGListeners] - Test Case verifyLoginWithInvalidPasswordAndValidDataShowsErrorTC passed
+[INFO] - [30-11-2025 14:46:52] [main] [CustomListeners.TestNGListeners] - Test Case verifyFeaturedProductsDisplayedTC passed
+[INFO] - [30-11-2025 14:47:35] [main] [CustomListeners.TestNGListeners] - Test Case verifyTopMenuNavigationTC passed
+[INFO] - [30-11-2025 14:48:07] [main] [CustomListeners.TestNGListeners] - Test Case verifyValidSearchGetsResultsTC passed
+[INFO] - [30-11-2025 14:48:24] [main] [CustomListeners.TestNGListeners] - Test Case verifyEmptySearchGetsAlertErrorTC passed
+[INFO] - [30-11-2025 14:48:39] [main] [CustomListeners.TestNGListeners] - Test Case verifyEnterInvalidEmailInNewsLetterTC failed
+[INFO] - [30-11-2025 14:48:57] [main] [CustomListeners.TestNGListeners] - Test Case verifyInvalidSearchGetsNoResultsTC passed
+[INFO] - [30-11-2025 14:49:33] [main] [CustomListeners.TestNGListeners] - Test Case verifyAddCustomizableProductToCartTC failed
+[INFO] - [30-11-2025 14:49:53] [main] [CustomListeners.TestNGListeners] - Test Case verifyAddNormalProductToCartTC passed

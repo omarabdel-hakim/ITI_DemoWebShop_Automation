@@ -1,0 +1,66 @@
+[DEBUG] - [30-10-2025 14:50:44] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\Mohamed\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml"
+[INFO] - [30-10-2025 14:50:48] [main] [CustomListeners.TestNGListeners] - Test Execution started
+[INFO] - [30-10-2025 14:50:49] [main] [Utils.FileUtillls] - Cleaned successfully
+[INFO] - [30-10-2025 14:50:49] [main] [Utils.FileUtillls] - Cleaned successfully
+[INFO] - [30-10-2025 14:50:49] [main] [Utils.FileUtillls] - Cleaned successfully
+[INFO] - [30-10-2025 14:50:49] [main] [Utils.FileUtillls] - File deleted: D:\Courses\Software Testing\Automation Web\Projects\FullProject\test-output\Logs\logs.log
+[INFO] - [30-10-2025 14:50:49] [main] [CustomListeners.TestNGListeners] - Directories cleaned
+[INFO] - [30-10-2025 14:50:49] [main] [Utils.FileUtillls] - Directory created: Output_data/ScreenShots/
+[INFO] - [30-10-2025 14:50:49] [main] [Utils.FileUtillls] - Directory created: src/test/resources/downloads/
+[INFO] - [30-10-2025 14:50:49] [main] [CustomListeners.TestNGListeners] - Directories created
+[INFO] - [30-10-2025 14:50:49] [main] [CustomListeners.TestNGListeners] - Properties loaded
+[INFO] - [30-10-2025 14:50:49] [main] [Utils.Reports.AllureEnvironmentManager] - Allure environment variables set.
+[INFO] - [30-10-2025 14:50:49] [main] [CustomListeners.TestNGListeners] - Allure environment set
+[INFO] - [30-10-2025 14:50:49] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\Mohamed\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[INFO] - [30-10-2025 14:50:50] [main] [Drivers.GUIDriver] - Initializing GUIDriver with browser: Edge
+[INFO] - [30-10-2025 14:50:50] [main] [Drivers.GUIDriver] - Starting driver for browser: EDGE
+[ERROR] - [30-10-2025 14:51:05] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [e5ff478d9a9046ec0148a6b429b89d14, findElement {value=[title="Your Store"], using=css selector}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50923}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50923/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e5ff478d9a9046ec0148a6b429b89d14
+[ERROR] - [30-10-2025 14:51:06] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [e5ff478d9a9046ec0148a6b429b89d14, findElement {value=[title="Your Store"], using=css selector}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50923}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50923/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e5ff478d9a9046ec0148a6b429b89d14
+[ERROR] - [30-10-2025 14:51:06] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] no such element: Unable to locate element: {"method":"css selector","selector":"[title="Your Store"]"}
+  (Session info: MicrosoftEdge=141.0.3537.99)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [e5ff478d9a9046ec0148a6b429b89d14, findElement {value=[title="Your Store"], using=css selector}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50923}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50923/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e5ff478d9a9046ec0148a6b429b89d14
+[ERROR] - [30-10-2025 14:51:15] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] Error communicating with the remote browser. It may have died.
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [e5ff478d9a9046ec0148a6b429b89d14, findElement [value, using]]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50923}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50923/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e5ff478d9a9046ec0148a6b429b89d14
+[ERROR] - [30-10-2025 14:51:15] [main] [Utils.Actions.ElementActions] - Isn't displayed By.cssSelector: [title="Your Store"] Error communicating with the remote browser. It may have died.
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [e5ff478d9a9046ec0148a6b429b89d14, findElement [value, using]]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50923}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50923/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e5ff478d9a9046ec0148a6b429b89d14
+[ERROR] - [30-10-2025 14:51:15] [main] [Media.ScreenShot] - Error taking full page screenshot: Error communicating with the remote browser. It may have died.
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [e5ff478d9a9046ec0148a6b429b89d14, screenshot []]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 141.0.3537.99, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50923}, msedge: {msedgedriverVersion: 141.0.3537.99 (1b2f83d6a142..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50923/devtoo..., se:cdpVersion: 141.0.3537.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e5ff478d9a9046ec0148a6b429b89d14

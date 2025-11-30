@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Full Suite">
+    <test name="All Tests">
+        <classes>
+            <class name="RegisterTest"/>
+            <class name="LoginTest"/>
+            <class name="HomeTest"/>
+            <class name="CategoryTest"/>
+            <class name="ProductDetailsTest"/>
+            <class name="ShoppingCartTest"/>
+            <class name="WishlistTest"/>
+            <class name="CheckOutTest"/>
+        </classes>
+    </test>
+</suite>

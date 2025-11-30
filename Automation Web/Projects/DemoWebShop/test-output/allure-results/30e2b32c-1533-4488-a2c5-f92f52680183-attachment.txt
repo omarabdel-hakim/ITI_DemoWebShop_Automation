@@ -1,0 +1,47 @@
+[DEBUG] - [30-11-2025 14:43:31] [main] [org.testng.TestNG] - suiteXmlPath: "D:\Courses\Software Testing\Automation Web\Projects\DemoWebShop\testng.xml"
+[INFO] - [30-11-2025 14:43:37] [main] [CustomListeners.TestNGListeners] - Test Execution started
+[INFO] - [30-11-2025 14:43:38] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  D:\Courses\Software Testing\Automation Web\Projects\DemoWebShop\testng.xml
+
+[INFO] - [30-11-2025 14:44:14] [main] [CustomListeners.TestNGListeners] - Test Case ValidRegistrationTC passed
+[INFO] - [30-11-2025 14:44:58] [main] [CustomListeners.TestNGListeners] - Test Case verifyRegisterWithEmptyLastNameAndEmailShowsErrorTC passed
+[INFO] - [30-11-2025 14:45:33] [main] [CustomListeners.TestNGListeners] - Test Case verifyRegisterWithExistEmailShowsErrorTC passed
+[INFO] - [30-11-2025 14:45:55] [main] [CustomListeners.TestNGListeners] - Test Case verifyValidLoginDataTC passed
+[INFO] - [30-11-2025 14:46:19] [main] [CustomListeners.TestNGListeners] - Test Case verifyLoginWithEmptyEmailAndValidDataShowsErrorTC passed
+[INFO] - [30-11-2025 14:46:38] [main] [CustomListeners.TestNGListeners] - Test Case verifyLoginWithInvalidPasswordAndValidDataShowsErrorTC passed
+[INFO] - [30-11-2025 14:46:52] [main] [CustomListeners.TestNGListeners] - Test Case verifyFeaturedProductsDisplayedTC passed
+[INFO] - [30-11-2025 14:47:35] [main] [CustomListeners.TestNGListeners] - Test Case verifyTopMenuNavigationTC passed
+[INFO] - [30-11-2025 14:48:07] [main] [CustomListeners.TestNGListeners] - Test Case verifyValidSearchGetsResultsTC passed
+[INFO] - [30-11-2025 14:48:24] [main] [CustomListeners.TestNGListeners] - Test Case verifyEmptySearchGetsAlertErrorTC passed
+[INFO] - [30-11-2025 14:48:39] [main] [CustomListeners.TestNGListeners] - Test Case verifyEnterInvalidEmailInNewsLetterTC failed
+[INFO] - [30-11-2025 14:48:57] [main] [CustomListeners.TestNGListeners] - Test Case verifyInvalidSearchGetsNoResultsTC passed
+[INFO] - [30-11-2025 14:49:33] [main] [CustomListeners.TestNGListeners] - Test Case verifyAddCustomizableProductToCartTC failed
+[INFO] - [30-11-2025 14:49:53] [main] [CustomListeners.TestNGListeners] - Test Case verifyAddNormalProductToCartTC passed
+[INFO] - [30-11-2025 14:50:17] [main] [CustomListeners.TestNGListeners] - Test Case verifyAddToCartButtonsAreDisplayedTC failed
+[INFO] - [30-11-2025 14:50:34] [main] [CustomListeners.TestNGListeners] - Test Case verifyCategoryOptionsAreDisplayedTC passed
+[INFO] - [30-11-2025 14:50:59] [main] [CustomListeners.TestNGListeners] - Test Case verifyNavigationToProductDetailsPageTC passed
+[INFO] - [30-11-2025 14:51:19] [main] [CustomListeners.TestNGListeners] - Test Case verifyWorkingCategoryOptionsTC passed
+[ERROR] - [30-11-2025 14:51:38] [main] [Utils.Actions.ElementActions] - Error clicking on element:  By.cssSelector: [class="close"] element not interactable
+  (Session info: MicrosoftEdge=142.0.3595.94)
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [a78da91f1672762140a240f012c79011, clickElement {id=f.40D0BE34B115D50EAF3D4525856FD69C.d.A03B61477D8AAB824D856B9675B09204.e.782}]
+Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, browserVersion: 142.0.3595.94, fedcm:accounts: true, goog:processID: 17040, ms:edgeOptions: {debuggerAddress: localhost:61877}, msedge: {msedgedriverVersion: 142.0.3595.94 (6565d6e52817..., userDataDir: C:\Users\Mohamed\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: eager, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61877/devtoo..., se:cdpVersion: 142.0.3595.94, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (a78da91f1672762140a240f012c79011)] -> css selector: [class="close"]]
+Session ID: a78da91f1672762140a240f012c79011
+[INFO] - [30-11-2025 14:51:40] [main] [CustomListeners.TestNGListeners] - Test Case verifyAddingProductToCartWithOptionsTC passed
+[INFO] - [30-11-2025 14:51:56] [main] [CustomListeners.TestNGListeners] - Test Case verifyAddingProductToCartWithoutOptionsTC failed
+[INFO] - [30-11-2025 14:52:19] [main] [CustomListeners.TestNGListeners] - Test Case verifyAddingProductToCartWithQuantityTC failed
+[INFO] - [30-11-2025 14:52:38] [main] [CustomListeners.TestNGListeners] - Test Case verifyAddingProductToWishListWithOptionsTC failed
+[INFO] - [30-11-2025 14:53:06] [main] [CustomListeners.TestNGListeners] - Test Case verifyNavigatingToCheckOutPageWithoutLoginTC failed
+[INFO] - [30-11-2025 14:53:37] [main] [CustomListeners.TestNGListeners] - Test Case verifyNavigatingToCheckOutPageWithoutTermsOfServicesTC failed
+[INFO] - [30-11-2025 14:54:13] [main] [CustomListeners.TestNGListeners] - Test Case verifyUpdatingProductQuantityTC passed
+[INFO] - [30-11-2025 14:54:39] [main] [CustomListeners.TestNGListeners] - Test Case verifyRemovingProductFromCartTC passed
+[INFO] - [30-11-2025 14:55:08] [main] [CustomListeners.TestNGListeners] - Test Case verifyUpdateWithInvalidQuantityShowsErrorTC failed
+[INFO] - [30-11-2025 14:55:35] [main] [CustomListeners.TestNGListeners] - Test Case verifyUpdateWithNegativeQuantityShowsErrorTC failed
+[INFO] - [30-11-2025 14:56:07] [main] [CustomListeners.TestNGListeners] - Test Case verifyUpdateWithZeroQuantityShowsErrorTC failed
+[INFO] - [30-11-2025 14:56:32] [main] [CustomListeners.TestNGListeners] - Test Case verifyAddWishlistProductToCartTC passed
+[INFO] - [30-11-2025 14:56:51] [main] [CustomListeners.TestNGListeners] - Test Case verifyProductAddedToWishlistTC failed
+[INFO] - [30-11-2025 14:57:12] [main] [CustomListeners.TestNGListeners] - Test Case verifyRemoveProductFromWishlistTC passed
+[INFO] - [30-11-2025 14:57:35] [main] [CustomListeners.TestNGListeners] - Test Case verifyUpdateWithValidQuantityInWishlistTC passed

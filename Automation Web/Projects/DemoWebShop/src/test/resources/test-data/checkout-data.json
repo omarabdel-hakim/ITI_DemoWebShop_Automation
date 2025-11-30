@@ -1,0 +1,30 @@
+{
+  "firstName": "Omar",
+  "lastName": "Abdelhakim",
+  "email": "omarabdelhakim777@gmail.com",
+  "company": "TestCompany",
+  "country": "United States",
+  "state": "New York",
+  "city": "New York city",
+  "address1": "123 Test St",
+  "address2": "Apt 4B",
+  "zipPostalCode": "12345",
+  "phoneNumber": "123-456-7890",
+  "faxNumber": "098-765-4321",
+
+  "purchaseOrderNumber": "P2",
+  "confirmationMessage": "Your order has been successfully processed!",
+
+  "creditInformation":
+  {
+    "creditCardType": "Master card",
+    "cardHolder": "Omar Abdelhakim",
+    "cardNumber": "50780350147258",
+    "expirationMonth": "11",
+    "expirationYear": "2029",
+    "cardCode": "3649"
+  },
+  "shippingMethod": "Next Day Air",
+  "paymentMethod" : "Credit"
+}
+

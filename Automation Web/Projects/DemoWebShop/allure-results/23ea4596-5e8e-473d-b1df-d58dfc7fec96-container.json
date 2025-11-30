@@ -1,0 +1,1 @@
+{"uuid":"23ea4596-5e8e-473d-b1df-d58dfc7fec96","name":"ShoppingCartTest.tearDown","children":["7d95a32e-d9f5-464a-bbd5-71ae85c42270"],"description":"","befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1764059551557,"stop":1764059554390}],"start":1764059551553,"stop":1764059554390}

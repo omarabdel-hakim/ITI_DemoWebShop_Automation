@@ -1,0 +1,1 @@
+{"uuid":"877a7aa0-e41e-40e2-88b7-cdd7866bfec4","name":"ProductTest.setUp","children":["9f16e876-c3cc-4f76-9f4d-ce5b05911711"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1764009060247,"stop":1764009063403}],"afters":[],"start":1764009060246,"stop":1764009063403}

@@ -1,0 +1,1 @@
+{"uuid":"2ff76ef4-1b99-40c9-a168-2ecd2c5f544d","name":"WishlistTest","children":["cf74aa0a-c215-4456-bba7-7e50620a31b3"],"befores":[{"name":"preCondition","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1764087816518,"stop":1764087816608}],"afters":[],"start":1764087816337,"stop":1764087867034}

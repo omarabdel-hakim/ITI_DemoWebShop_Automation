@@ -1,0 +1,58 @@
+{
+  "searchProduct" :
+  {
+  "name": "Desktop",
+  "invalidName": "MacBook Pro",
+  "invalidSearchMessage": "No products were found that matched your criteria."
+  },
+
+
+  "homePage" :
+  {
+    "name": "Desktop",
+    "invalidName": "MacBook Pro",
+    "validNewsletterEmail": "test874@gmail.com",
+    "inValidNewsletterEmail": "test874.com"
+    "newLetterMessage": "Thank you for signing up! A verification email has been sent. We appreciate your interest.",
+    "alertMessage": "Please enter some search keyword"
+  },
+
+  "messages":
+  {
+    "addToCartMessage": "The product has been added to your shopping cart",
+    "addToWishlistMessage": "The product has been added to your wishlist",
+    "discountAndGiftMessage": "The coupon code you entered couldn't be applied to your order"
+  },
+  "categoryPage":
+  {
+  "computerCat":"Desktops",
+  "computerName": "Build your own computer",
+  "electronicsCat":"Cell",
+  "electronicsName": "Smartphone",
+  "Apparel&ShoesCat": "Apparel & Shoes",
+  "Apparel&ShoesNameA": "Blue and green Sneaker",
+  "Apparel&ShoesNameB": "Casual Golf Belt",
+  "Apparel&ShoesNameC": "Blue Jeans",
+  "quantity": "4",
+  "sortBy":"Price: Low to High",
+  "displayByPage": "12",
+  "viewAs": "List",
+  "filterByPrice": "Under 1000.00"
+  },
+  "productDetails":
+  {
+    "productNameA": "$25 Virtual Gift Card",
+    "priceA": "25.00",
+    "quantityA": "6",
+    "recipientName": "John Smith",
+    "recipientEmail": "john2025@gmail.com",
+    "senderName": "Ali Ahmed",
+    "senderEmail": "aliahmed80@gmail.com",
+
+    "productNameB": "Build your own expensive computer",
+    "priceB": "1800.00",
+    "quantityB": "3"
+  }
+
+
+}
